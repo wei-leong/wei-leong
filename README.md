@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently a student learning Software Engineering<br>🌱 I’m currently learning Full Stack Web Development and Mobile App Development<br>⚡ I’m currently learning Flutter</p>
+<p align="left">💻 Software Engineering undergraduate | Mobile & Full-Stack Developer<br>🛠️ Building with Flutter, Dart, Spring Boot, and Python<br>⚡ Focused on clean, maintainable codebases, effective task execution, and scalable system architecture.</p>
 
 ###
 
